@@ -4,6 +4,7 @@
  * $Id$
  */
 package ReadWriteLock_6;
+
 /**
  * 读写锁模式 <br/>
  * 要求： <br/>
