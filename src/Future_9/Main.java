@@ -6,6 +6,8 @@
 package Future_9;
 
 /**
+ * 客户端请求委派给工人线程执行，并且客户端可以拿到执行结果
+ * 
  * @author wangly
  * @version $Revision: 1.0 $, $Date: 2018年6月25日 下午3:20:26 $
  */
